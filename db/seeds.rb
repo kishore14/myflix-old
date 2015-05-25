@@ -13,7 +13,7 @@
 #Category.create(name: 'TV Comedies')
 #Category.create(name: 'TV Drama')
 
-VideoCategory.create(video_id: 2, category_id: 1)
-VideoCategory.create(video_id: 2, category_id: 2)
-VideoCategory.create(video_id: 3, category_id: 1)
-VideoCategory.create(video_id: 4, category_id: 1)
+#VideoCategory.create(video_id: 2, category_id: 1)
+#VideoCategory.create(video_id: 2, category_id: 2)
+#VideoCategory.create(video_id: 3, category_id: 1)
+#VideoCategory.create(video_id: 4, category_id: 1)
